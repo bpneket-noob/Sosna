@@ -1,0 +1,17 @@
+ctranslate2==4.8.4
+huggingface_hub==2.3.0
+keyboard==0.13.5
+mss==10.2.0
+pillow==13.0.0
+pystray==0.19.5
+requests==2.34.2
+sentencepiece==0.2.2
+transformers==5.20.2
+winocr==0.0.15
+winrt-runtime==4.0.3
+winrt-Windows.Foundation==4!10.0.28000.2705
+winrt-Windows.Foundation.Collections==4!10.0.28000.2705
+winrt-Windows.Globalization==4!10.0.28000.2705
+winrt-Windows.Graphics.Imaging==4!10.0.28000.2705
+winrt-Windows.Media.Ocr==4!10.0.28000.2705
+winrt-Windows.Storage.Streams==4!10.0.28000.2705

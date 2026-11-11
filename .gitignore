@@ -1,0 +1,27 @@
+# встроенный Python и модели — большие бинарные каталоги
+runtime/
+models/
+
+# байткод и логи
+__pycache__/
+*.pyc
+*.log
+
+# пользовательские данные (живут в %APPDATA%\Sosna)
+config.json
+config.json.bak
+history.json
+history.json.bak
+glossary.json
+glossary.json.bak
+
+# деинсталлятор Inno Setup и тестовые файлы
+unins000.*
+unins000.dat
+_*.py
+_*.png
+_*.txt
+_*.json
+
+# временные каталоги установщика
+*.tmp/

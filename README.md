@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  [GitHub release](https://img.shields.io/badge/версия-1.3.10-green)
-  [Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
-  [Offline first](https://img.shields.io/badge/офлайн-100%25-brightgreen)
+  [![GitHub release](https://img.shields.io/badge/версия-1.3.10-green)](https://example.com)
+  
+  [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)](https://example.com)
+  
+  [![Offline first](https://img.shields.io/badge/офлайн-100%25-brightgreen)](https://example.com)
 </p>
 
 ---

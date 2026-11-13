@@ -9,13 +9,8 @@
   Выдели фрагмент — получи перевод. Всё считается локально на твоём ПК.
 </p>
 
-<p align="center">
-  
-  [![GitHub release](https://img.shields.io/badge/версия-1.3.10-green)](https://github.com/bpneket-noob/Sosna/releases)
-  
-  [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)](https://github.com/bpneket-noob/Sosna/releases/download/v1.3.10/Sosna-Setup-1.3.10.exe)
-  
-  ![Offline first](https://img.shields.io/badge/офлайн-100%25-brightgreen)
+<p align="center"> 
+  ![GitHub release](https://img.shields.io/badge/версия-1.3.10-green) ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-blue) ![Offline first](https://img.shields.io/badge/офлайн-100%25-brightgreen)
 </p>
 
 ---
